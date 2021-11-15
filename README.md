@@ -26,12 +26,22 @@ Modifications were made to the original data using the Power Query editor to be 
 
 The modifications were: 
 
-- 
-- 
-- The column "Ventas global" was eliminated because it generates a duplication in the values.
-- Four columns were unified to two columns, with the option "Unpivot columns", in order to have all the sales values together in a column and the regions in another column.
-- Original region names were replaced  for more understandability.  
-- The type of field assigned by Power BI to the column "año" was changed to be consistent with the desired purposes.  
+- In some cases it was necessary to use the "Use First Row as Headers" option to accommodate the imported data.
+- A conditional column was created to add a new category called "Cantidad Poblacional" 
+- A conditional column was created to add a new category called "Mortalidad Infantil (Muertes cada 1000 niños)"
+- A conditional column was created to add a new category called "Esperanza de Vida (Años promedio)"
+
+## Data Modeling
+
+It was required to relate common data between the files:
+
+- The data named "Country" from the file Population" and "countries" were related. 
+- The data named "Country code" and "Codigo pais" from the file "Population" and "countries" were related.
+- The data named "Country" from the file "countries" and "Infant death rate" were related.
+- The data named "Country" from the file "countries" and "Life Expectancy" were related.
+
+![relacion de datos](https://user-images.githubusercontent.com/93662295/141716274-a53ea1b4-eb37-432b-9bae-6981036d5769.png)
+
 
 ## Description
 
@@ -39,7 +49,6 @@ This is an interactive report that analyzes the behavior of copies sold seen in 
 
 For the data analysis, characteristics such as the year, regions, platform, video game genre and publisher were taken into account.
 
-![Caracteristicas](https://user-images.githubusercontent.com/93662295/141206190-46023d69-4c23-48fc-9d9a-de59f562285f.png)
 
 Different types of visualizations were used to represent data behaviors such as stacked column charts, stacked bar charts, line charts, and pie charts. Through which we can see clearly and friendly how sales had their greatest boom during 2008, being the North American region the one with the highest sales index.
 
@@ -47,4 +56,3 @@ Additionally, it is possible to observe that the genres of action, sports and sh
 
 Below you can see a snapshot of the report:
 
-![Industria_Videojuegos](https://user-images.githubusercontent.com/93662295/141363226-8b28fc08-be03-460f-8ef0-ab933972b836.png)
