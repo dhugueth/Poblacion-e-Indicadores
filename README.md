@@ -45,14 +45,21 @@ It was required to relate common data between the files:
 
 ## Description
 
-This is an interactive report that analyzes the behavior of copies sold seen in millions of the video game industry.
+It is an interactive report divided into two parts. The first is an analysis of the population quantity seen by countries and continents. The second relies on the first part with additional information from the world indicators of infant death rate and life expectancy.
 
-For the data analysis, characteristics such as the year, regions, platform, video game genre and publisher were taken into account.
+Different types of visualizations were used to represent the behavior of the data, such as maps, treemaps, tables, and scatter charts.
+
+In the first part, the data of continent, population size, and the visualizations make easer different forms of analysis. In the report, it is clear how India and China have the highest number of inhabitants, both countries from Asia, and Tuvalu and Nauru have the least inhabitants, both countries from Australia.
+
+Below you can see a snapshot from the first part of the report:
+
+![Poblacion_parte1](https://user-images.githubusercontent.com/93662295/141862170-76783c22-2bec-4195-8160-ccc8b5a30cb1.png)
+
+As in the first part the data of continent, number of the population, average years of life expectancy, the average group of infant mortality per 1000 births make easy different forms of analysis. In the report, it is possible to analyze possible correlations between the data on infant death rate and life expectancy. From the above, it is clear how Angola is the country with the worst possible scenario because has the highest infant death rate, along with a life expectancy among the lowest. In contrast, the country Monaco has one of the highest average life expectancies along with some of the lowest death rates in the world.
+
+Below you can see a snapshot from the second part of the report:
+
+![Poblacion_parte2](https://user-images.githubusercontent.com/93662295/141862840-fb0084d7-a825-4881-85b9-2f4a6d8982ff.png)
 
 
-Different types of visualizations were used to represent data behaviors such as stacked column charts, stacked bar charts, line charts, and pie charts. Through which we can see clearly and friendly how sales had their greatest boom during 2008, being the North American region the one with the highest sales index.
-
-Additionally, it is possible to observe that the genres of action, sports and shooter were the ones that attracted the largest number of players, with the playstation 2 and Xbox 360 the leading Console in sales.
-
-Below you can see a snapshot of the report:
 
