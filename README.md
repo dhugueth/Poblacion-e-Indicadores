@@ -35,29 +35,24 @@ The modifications were:
 
 It was required to relate common data between the files:
 
-- The data named "Country" from the file Population" and "countries" were related. 
-- The data named "Country code" and "Codigo pais" from the file "Population" and "countries" were related.
-- The data named "Country" from the file "countries" and "Infant death rate" were related.
-- The data named "Country" from the file "countries" and "Life Expectancy" were related.
+- The data named "Country" from the file Population and Countries were related. 
+- The data named "Country code" from the file Population, and data named "Codigo pais" from the file Countries were related.
+- The data named "Country" from the file Countries and Infant death rate were related.
+- The data named "Country" from the file Countries and Life Expectancy were related.
 
 ![relacion de datos](https://user-images.githubusercontent.com/93662295/141716274-a53ea1b4-eb37-432b-9bae-6981036d5769.png)
 
-
 ## Description
 
-It is an interactive report divided into two parts. The first is an analysis of the population quantity seen by countries and continents. The second relies on the first part with additional information from the world indicators of infant death rate and life expectancy.
+This is an interactive report divided into two parts. **The first** is an analysis of the population quantity seen by countries and continents. **The second** relies on the first part with additional information from the world indicators of infant death rate and life expectancy.
 
 Different types of visualizations were used to represent the behavior of the data, such as maps, treemaps, tables, and scatter charts.
 
-In the first part, the data of continent, population size, and the visualizations make easy different forms of analysis. In the report, it is clear how India and China have the highest number of inhabitants, both countries from Asia, and Tuvalu and Nauru have the least inhabitants, both countries from Australia.
-
-Below you can see a snapshot from the first part of the report:
+In the first part, the visualizations with the data of continent and population size make easy different forms of analysis. Below you can see a snapshot from the first part of the report:
 
 ![Poblacion_parte1](https://user-images.githubusercontent.com/93662295/141862170-76783c22-2bec-4195-8160-ccc8b5a30cb1.png)
 
-As in the first part the data of continent, population size, average of life expectancy and average of infant death rate, make easy different forms of analysis. In the report, it is possible to analyze correlations between the data on infant death rate and life expectancy. From the above, it is clear how Angola is the country with the worst scenario because has the highest infant death rate along with a life expectancy among the lowest. In contrast, Monaco has one of the highest average life expectancies along with some of the lowest death rates in the world.
-
-Below you can see a snapshot from the second part of the report:
+In the second part the data of continent, population size, average of life expectancy and average of infant death rate make easy different forms of analysis. In the report, it is possible to analyze correlations between the data on infant death rate and life expectancy. Below you can see a snapshot from the second part of the report:
 
 ![Poblacion_parte2](https://user-images.githubusercontent.com/93662295/141862840-fb0084d7-a825-4881-85b9-2f4a6d8982ff.png)
 
