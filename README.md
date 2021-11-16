@@ -49,13 +49,13 @@ It is an interactive report divided into two parts. The first is an analysis of 
 
 Different types of visualizations were used to represent the behavior of the data, such as maps, treemaps, tables, and scatter charts.
 
-In the first part, the data of continent, population size, and the visualizations make easer different forms of analysis. In the report, it is clear how India and China have the highest number of inhabitants, both countries from Asia, and Tuvalu and Nauru have the least inhabitants, both countries from Australia.
+In the first part, the data of continent, population size, and the visualizations make easy different forms of analysis. In the report, it is clear how India and China have the highest number of inhabitants, both countries from Asia, and Tuvalu and Nauru have the least inhabitants, both countries from Australia.
 
 Below you can see a snapshot from the first part of the report:
 
 ![Poblacion_parte1](https://user-images.githubusercontent.com/93662295/141862170-76783c22-2bec-4195-8160-ccc8b5a30cb1.png)
 
-As in the first part the data of continent, number of the population, average years of life expectancy, the average group of infant mortality per 1000 births make easy different forms of analysis. In the report, it is possible to analyze possible correlations between the data on infant death rate and life expectancy. From the above, it is clear how Angola is the country with the worst possible scenario because has the highest infant death rate, along with a life expectancy among the lowest. In contrast, the country Monaco has one of the highest average life expectancies along with some of the lowest death rates in the world.
+As in the first part the data of continent, population size, average of life expectancy and average of infant death rate, make easy different forms of analysis. In the report, it is possible to analyze correlations between the data on infant death rate and life expectancy. From the above, it is clear how Angola is the country with the worst scenario because has the highest infant death rate along with a life expectancy among the lowest. In contrast, Monaco has one of the highest average life expectancies along with some of the lowest death rates in the world.
 
 Below you can see a snapshot from the second part of the report:
 
