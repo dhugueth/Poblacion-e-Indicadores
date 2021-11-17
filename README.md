@@ -52,7 +52,7 @@ In the first part, the visualizations with the data of continent and population 
 
 ![Poblacion_parte1](https://user-images.githubusercontent.com/93662295/141862170-76783c22-2bec-4195-8160-ccc8b5a30cb1.png)
 
-In the second part the data of continent, population size, average of life expectancy and average of infant death rate make easy different forms of analysis. In the report, it is possible to analyze correlations between the data on infant death rate and life expectancy. Below you can see a snapshot from the second part of the report:
+In the second part, the data of continent, population size, average of life expectancy and average of infant death rate make easy different forms of analysis. In the report, it is possible to analyze correlations between the data on infant death rate and life expectancy. Below you can see a snapshot from the second part of the report:
 
 ![Poblacion_parte2](https://user-images.githubusercontent.com/93662295/141862840-fb0084d7-a825-4881-85b9-2f4a6d8982ff.png)
 
